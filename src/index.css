@@ -1,11 +1,4 @@
-:root {
-    --blue-200: #A5D7E8;
-    --blue-400: #576CBC;
-    --blue-600: #19376D;
-    --blue-900: #0B2447;
-  }
-  
-  * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;

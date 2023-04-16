@@ -25,7 +25,7 @@ function Navbar() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    Blog Pessoal
+                    Blog Mugiwara
                     </Typography>
                     <Box display= "flex">
                         <Box mx={1} style={{cursor: "pointer"}}>

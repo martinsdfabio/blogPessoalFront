@@ -1,3 +1,17 @@
-.footer {
-    background-color: #1976d2;
+.box1{
+    background-color: #272A53 !important;
+    height: 83px;
+}
+.box2{
+
+}
+
+.redes{
+    font-size: 35;
+    color: white;
+    height: 25px
+}
+
+.textos{
+    color: white;
 }

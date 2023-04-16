@@ -25,25 +25,25 @@ function Navbar() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    Blog Mugiwara
+                    Blog do Mugiwara
                     </Typography>
                     <Box display= "flex">
-                        <Box mx={1} style={{cursor: "pointer"}}>
+                        <Box mx={1} className='cursor'>
                             <Typography variant="h6">
                                 Home
                             </Typography>
                         </Box>
-                        <Box mx={1} style={{cursor: "pointer"}}>
+                        <Box mx={1} className='cursor'>
                             <Typography variant="h6" color={"inherit"}>
                                 Postagens
                             </Typography>
                         </Box>
-                        <Box mx={1} style={{cursor: "pointer"}}>
+                        <Box mx={1} className='cursor'>
                             <Typography variant="h6" color={"inherit"}>
                                 Tema
                             </Typography>
                         </Box>
-                        <Box mx={1} style={{cursor: "pointer"}}>
+                        <Box mx={1} className='cursor'>
                             <Typography variant="h6" color={"inherit"}>
                                 Cadastrar Tema
                             </Typography>

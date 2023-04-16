@@ -2,5 +2,16 @@
   background-image: url(./../../assets/FABIO-04.png) ;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 100%;
+}
+
+.titulo{
+  color: #000000;
+  font-weight: bold;
+}
+
+.botao{
+  border-color: rgb(14, 35, 107) !important;
+  background-color: #14237a;
+  color: rgb(0, 0, 0) !important;
 }

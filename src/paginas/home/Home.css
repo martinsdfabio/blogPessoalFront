@@ -1,13 +1,15 @@
-.home{
-  background-image: url(./../../assets/FABIO-04.png) ;
+.img {
+  background-image: url('./../../assets/FABIO-04.png');
   background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 100%;
+  background-size: 100%;
+  min-height: 250vh;
 }
+
 
 .titulo{
   color: #000000;
   font-weight: bold;
+
 }
 
 .botao{

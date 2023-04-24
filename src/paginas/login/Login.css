@@ -1,0 +1,24 @@
+.imagemLogin {
+  background-image: url(./../../assets/luffy-one-piece-1015-1110x624.png);
+  background-repeat: no-repeat;
+  width: 100vh;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  }
+  
+  .linkLogin {
+    text-decoration: underline;
+    color: var(--blue-600)
+  }
+  
+  .linkLogin:hover {
+    color: var(--blue-900)
+  }
+  
+  /* .botaolegal {
+    background-color: #f60 !important;
+  }
+  .botaolegal:hover {
+    background-color: rgb(139, 57, 2) !important;
+  } */
